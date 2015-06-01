@@ -1,4 +1,0 @@
-# Code
-
-    def main():
-        pass
