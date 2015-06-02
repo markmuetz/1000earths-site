@@ -1,0 +1,1 @@
+- [Online book on Python stats](http://work.thaslwanter.at/Stats/html/)
